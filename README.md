@@ -2,7 +2,7 @@
 It is Web aplication that allow users to search bloodand donate blood
          # Tools & Technologies
             This web application uses  MERN Stack , mapbox
-# Fetuers
+# Features
 There are two internal users involved in this system. 1.Doner 2.Admin 3.Hospital 4.Orgnisation.
 – In order to handle donor information, etc., the administrator can create, edit, remove, and query donor records
  in addition to monitoring the history of every other system.
